@@ -1,0 +1,65 @@
+.resume-ListHeading{
+    font-weight: bold;
+    font-style: italic;
+}
+
+ul{
+    font-weight: normal;
+    font-style: normal;
+}
+
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+
+.common{
+    border: solid 2px white;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+}
+
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+}
+
+.rightmenu{
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 64px;
+}
+
+.footer{
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+}
+/* I edited this from the original css to adjust to some of my added links */ 
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #ffffff;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.tableaufont{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color: rgb(42, 35, 35);
+}

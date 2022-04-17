@@ -1,0 +1,15 @@
+h5{
+    font-size: 25px;
+    color: rgb(49, 43, 43);
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h7{
+    font-size: 30px;
+    font-style: italic;
+}
+
+.homebg{
+    background-color: bisque;
+}
